@@ -1,7 +1,7 @@
 # Breakout Planet  
 https://unityroom.com/games/bp_light ：Unityroomへのリンクです  
-->趣味で作った3Dブロック崩しゲーム  
-・開発環境 vsCode (Unity C#)  
+->趣味で作った3Dブロック崩しゲームです  
+・開発環境 vsCode (Unity C#) version:Unity 2018.4.26f1  
 ・権利の関係から、素材以外のコードのみ載せています  
 Breakout Planet/  
 　├ Resources/ パネルオブジェクトに用いたモデル  
